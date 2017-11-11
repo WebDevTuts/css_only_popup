@@ -37,3 +37,18 @@ body {
   position: relative;
   border: 5px solid #fff;
 }
+
+.close {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: #222;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  color: #fff;
+  text-decoration: none;
+  line-height: 0;
+  padding: 10px 0;
+  width: 20px;
+  text-align: center;
+}
