@@ -52,3 +52,7 @@ body {
   width: 20px;
   text-align: center;
 }
+
+.popup:target {
+  display: block;
+}
